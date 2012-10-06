@@ -7,10 +7,11 @@
     "3.2.0", 
     "3.2.1",
     "3.4",
+    "3.5.4",
     "3.6"
   ], 
   "original-author": "l300lvl", 
   "url": "https://github.com/l300lvl/Blank-Screen-Extension", 
   "uuid": "blank-screen@l300lvl.co.nr", 
-  "version": 3
+  "version": 4
 }
